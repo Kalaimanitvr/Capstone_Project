@@ -116,7 +116,7 @@ As a **data analyst**, my goal was to:
 ---
 
 ## 🏁 Conclusion
-This project demonstrates how data analytics and machine learning can uncover valuable insights in football. By analyzing player performance, market trends, and attendance patterns, we addressed key business questions and provided actionable recommendations. 
+This project demonstrates how data analytics and machine learning can uncover valuable insights in football. By analyzing player performance, market trends, and attendance patterns, I've addressed key business questions and provided actionable recommendations. 
 
 While the models provided moderate accuracy, the project highlights areas for further improvement, such as incorporating more diverse datasets and exploring advanced algorithms. The insights gained from this analysis can help football clubs, analysts, and fans make better decisions and appreciate the game through a data-driven lens.
 
