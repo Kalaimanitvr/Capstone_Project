@@ -1,6 +1,5 @@
-# ⚽ Comprehensive Football Analysis: Insights & Strategic Recommendations
+# ⚽ Comprehensive Football Analysis: Insights & Strategic Recommendations ⚽
 
-# ⚽ Football Analytics: A Comprehensive Data Analysis Project
 
 ## 🌐 Quick Access Links
 Access the key files for this project:
