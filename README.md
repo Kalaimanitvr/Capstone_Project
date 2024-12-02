@@ -1,4 +1,4 @@
-# ⚽ Football Analytics: A Data-Driven Approach to the Beautiful Game
+# ⚽ Comprehensive Football Analysis: Insights & Strategic Recommendations
 
 ## 🌐 Quick Access Links
 Start exploring the project with these key files:
