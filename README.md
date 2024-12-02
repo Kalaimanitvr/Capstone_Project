@@ -4,7 +4,7 @@
 Start exploring the project with these key files:
 - 📓 **[Jupyter Notebook](./project_final.ipynb)**: Core data analysis and modeling workflows.
 - 📑 **[Data Dictionary](./data%20dictionary_football.pdf)**: Comprehensive dataset description.
-- 🛠️ **[Preprocessing Guide](./Data%20Preprocessing_KalaimaniMuthu.pdf)**: Steps for cleaning and preparing the data.
+- 🛠️ **[Preprocessing Guide](./[Data%20Preprocessing_KalaimaniMuthu.pdf](https://github.com/Kalaimanitvr/Capstone_Project/blob/a754bf039d8ccc6b94e389b384b6370c9f1aa531/Data%20Preprocessing_KalaimaniMuthu.pdf))**: Steps for cleaning and preparing the data.
 - 📊 **[Presentation Slides](./Kalaimani_project_cap.pptx)**: High-level insights and strategic recommendations.
 - 🌐 **Tableau Dashboard**: *(Provide the link if published on Tableau Public)*.
 
