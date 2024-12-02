@@ -6,7 +6,7 @@ Start exploring the project with these key files:
 - 📑 **[Data Dictionary](./data%20dictionary_football.pdf)**: Comprehensive dataset description.
 - 🛠️ **[Preprocessing Guide](./Data%20Preprocessing_KalaimaniMuthu.pdf)**: Steps for cleaning and preparing the data.
 - 📊 **[Presentation Slides](./Kalaimani_project_cap111.pdf)**: High-level insights and strategic recommendations.
-- 🌐 *([**Tableau Dashboard**]https://public.tableau.com/views/Kalaimani_Muthu_dashboard/Home?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )*.
+- 🌐 **[Tableau Dashboard](https://public.tableau.com/views/Kalaimani_Muthu_dashboard/Home?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )**.
 
 ---
 
